@@ -1,5 +1,4 @@
 # Script for publication 2025 #
-# created by Michelle Lee
 # may 2025
 
 # The purpose of this code is to create the network analyses, figures, model outputs of the manuscript sent for review at Diversity and Distributions. The code will do the following:
